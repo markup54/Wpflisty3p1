@@ -90,7 +90,7 @@
                 RowBackground="BlueViolet"
                 AlternationCount="3"
                 AlternatingRowBackground="AliceBlue"
-                IsReadOnly="True"
+                IsReadOnly="False"
                 ItemsSource="{Binding Produkty}">
                 
             </DataGrid>
